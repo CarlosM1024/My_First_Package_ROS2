@@ -27,7 +27,7 @@
 
 ## Overview
 
-In this guide, adapted from study notes ([My First Steps in ROS 2](https://github.com/CarlosM1024/My-First-Steps-in-ROS2)) and tutorials on **[Robótica con Python (cmorales)](https://github.com/CarlosM1024/My-First-Steps-in-ROS2)** running on **Ubuntu 24.04 LTS**, you will learn how to:
+In this guide, adapted from study notes **([My First Steps in ROS 2](https://github.com/CarlosM1024/My-First-Steps-in-ROS2))** and tutorials on **[Robótica con Python (cmorales)](https://github.com/CarlosM1024/My-First-Steps-in-ROS2)** running on **Ubuntu 24.04 LTS**, you will learn how to:
 
 1. Create and structure a ROS 2 workspace using `colcon`.
 2. Create a ROS 2 package using `ament_python`.
