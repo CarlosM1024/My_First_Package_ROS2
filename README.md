@@ -6,7 +6,7 @@
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![ROS 2](https://img.shields.io/badge/ROS_2-Jazzy_Jalisco-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/jazzy/)
-[![Build System](https://img.shields.io/badge/Build-colcon_%7C_ament__cmake-0A506B?style=for-the-badge)](https://colcon.readthedocs.io/)
+[![Build System](https://img.shields.io/badge/Build-colcon_%7C_ament__python-0A506B?style=for-the-badge)](https://colcon.readthedocs.io/)
 
 </div>
 

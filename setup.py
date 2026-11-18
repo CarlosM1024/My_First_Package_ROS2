@@ -13,10 +13,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='antho',
-    maintainer_email='antho@todo.todo',
+    maintainer='carlosM',
+    maintainer_email='carlosm@todo.todo',
     description='Mi primer paquete en ROS',
-    license='Apache-2.0',
+    license='MIT License',
     extras_require={
         'test': [
             'pytest',
